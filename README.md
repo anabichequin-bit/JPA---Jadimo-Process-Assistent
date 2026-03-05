@@ -1,8 +1,16 @@
 JPA Automação – Recebimento
 
+## Testar a aplicação
+
+A versão executável da aplicação pode ser baixada na página de releases:
+
+https://github.com/anabichequin-bit/JPA---Jadimo-Process-Assistent/releases
+
 O código presente neste repositório corresponde à versão inicial do projeto.
 A aplicação continuou evoluindo posteriormente dentro do ambiente interno da empresa, por isso a versão mais recente está disponível apenas como executável.
 
+ ## Sobre o projeto
+ 
 Este projeto foi desenvolvido para automatizar algumas tarefas administrativas do setor de recebimento logístico de uma transportadora.
 
 No dia a dia do setor, durante a conferência de documentos, é necessário coletar e registrar diversas informações em planilhas. Com o tempo, esse processo acaba gerando uma grande quantidade de dados espalhados e organizados manualmente, o que torna o trabalho repetitivo e sujeito a erros.
