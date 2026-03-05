@@ -29,9 +29,7 @@ A primeira automação trata a planilha bruta utilizada pelo setor para controle
 
 As numerações de documentos como CTEs, NFs e outras referências são geralmente enviadas por e-mail e registradas manualmente em planilhas. Como essas informações chegam de forma desorganizada, o processo de registrar e organizar os dados acaba sendo demorado.
 
-Como todas as documentações recebidas precisam ser registradas para comprovação de conferência correta, essa automação foi criada para organizar automaticamente esses dados e gerar uma planilha estruturada em formato .xlsx.
-
-O sistema lê a planilha bruta utilizada pelo setor e reorganiza as informações no formato utilizado pelo faturamento da empresa.
+Como todas as documentações recebidas precisam ser registradas para comprovação de conferência correta, o sistema lê a planilha bruta utilizada pelo setor e reorganiza as informações no formato utilizado pelo faturamento da empresa.
 
 Algumas colunas permanecem vazias porque são preenchidas manualmente durante a conferência realizada pela equipe de recebimento.
 
